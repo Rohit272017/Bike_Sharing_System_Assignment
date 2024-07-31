@@ -23,7 +23,7 @@ BoomBikes has engaged a consulting firm to analyze this data and provide insight
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
--     Model Performance Metrics  Train Set  Test Set\n,
+     Model Performance Metrics  Train Set  Test Set\n,
    0           R-Squared Value    0.83200   0.80690\n,
    1  Adjusted R-Squared Value    0.82800   0.79560\n,
    2                      RMSE    0.09196   0.09576"
