@@ -23,26 +23,25 @@ BoomBikes has engaged a consulting firm to analyze this data and provide insight
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+-     Model Performance Metrics  Train Set  Test Set\n,
+   0           R-Squared Value    0.83200   0.80690\n,
+   1  Adjusted R-Squared Value    0.82800   0.79560\n,
+   2                      RMSE    0.09196   0.09576"
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Seaborn - version 0.11.2
+- Numpy - version 1.20.3
+- Pandas - version 1.3.4
+- MatplotLib - version 3.4.3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upgrad
 
 
 ## Contact
