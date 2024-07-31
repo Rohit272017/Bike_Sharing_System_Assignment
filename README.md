@@ -12,10 +12,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Bike-sharing systems allow individuals to borrow bikes for short-term use, often using computer-controlled docks where users enter payment information to unlock bikes. These bikes can then be returned to any dock within the same system.
+
+BoomBikes, a US bike-sharing provider, has experienced significant revenue declines due to the ongoing COVID-19 pandemic. To remain viable in the current market, they are developing a strategic plan to boost revenue once the lockdown ends and the economy recovers.
+
+To achieve this, BoomBikes aims to understand the factors influencing the demand for shared bikes, particularly in the post-quarantine period. They want to identify the significant variables affecting bike demand and measure how well these variables predict demand. Using data collected from various meteorological surveys and consumer behavior patterns, the company has compiled a comprehensive dataset on daily bike demand across the US.
+
+BoomBikes has engaged a consulting firm to analyze this data and provide insights into the key factors affecting bike-sharing demand, enabling them to better prepare for future market conditions and outperform competitors.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
